@@ -2,15 +2,11 @@
 
 Dear Hiring Manager, 
 Are you looking for a motivated fresher with: 
- A solid foundation in Computer Science and 
-Information Technology? 
- Knowledge of current trends and technologies in 
-Computer Science? 
- Strong written and verbal communication skills? 
- A passion for continuous learning and skill 
-development? 
-If so, then I believe I could be an excellent fit for your 
-team. 
+A solid foundation in Computer Science andInformation Technology? 
+Knowledge of current trends and technologies in Computer Science? 
+Strong written and verbalcommunication skills? 
+A passion for continuous learning and skill development? 
+If so, then I believe I could be an excellent fit for your team. 
 My name is Sakshat Vyas, and I am currently in my fourth 
 year of a B.Tech in Computer Science at VIT Bhopal 
 University. I have developed strong foundational skills in 
